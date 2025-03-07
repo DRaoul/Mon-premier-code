@@ -1,3 +1,41 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.header{
+    background-color: darkgreen;
+height: 80px;
+margin: 10px;
+text-align: center;
+}
+
+
+nav ul li {
+    list-style-type: none;
+    display: inline;
+    padding: 10px;
+}
+
+a{
+    color: aliceblue;
+    text-decoration: none;
+    letter-spacing: 0.1em;
+
+
+}
+.menu{
+    padding: 30px;
+
+}
+
+
+
+
+
+
+
+
 .banner{
     text-align: center;
     color: aliceblue;
