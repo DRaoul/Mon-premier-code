@@ -1,0 +1,11 @@
+.banner{
+    text-align: center;
+    color: aliceblue;
+background-image: url(banner.jpg);
+padding: 100px;
+
+background-position: cover;
+
+
+
+}
